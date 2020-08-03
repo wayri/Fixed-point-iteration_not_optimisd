@@ -56,7 +56,8 @@ int main()
 			x1 = x2;
 			//write the function here in terms of x implicitly
 			//functions are selected based on 'choice'
-			// ! Remember that the below are **equations** of form **x = f(x)**
+			//! Remember that the below are **equations** of form **x = f(x)**
+                        //
                         switch (choice)
 			{
 			case 0:
